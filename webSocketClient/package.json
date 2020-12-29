@@ -1,0 +1,29 @@
+{
+  "name": "webSocketClient",
+  "version": "1.0.0",
+  "description": "webSocket client",
+  "main": "index.js",
+  "scripts": {
+    "start": "PORT=1992 react-scripts start"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "antd": "^4.9.4",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-scripts": "^4.0.1",
+    "websocket": "^1.0.33"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

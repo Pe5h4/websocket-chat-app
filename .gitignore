@@ -1,0 +1,13 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+/webSocketClient/node_modules
+/webSocketServer/node_modules
+
+/webSocketClient/npm-debug.log*
+/webSocketClient/yarn-debug.log*
+/webSocketClient/yarn-error.log*
+
+/webSocketServer/npm-debug.log*
+/webSocketServer/yarn-debug.log*
+/webSocketServer/yarn-error.log*
